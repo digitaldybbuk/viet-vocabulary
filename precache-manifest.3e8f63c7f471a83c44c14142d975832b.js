@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c7f14ebc0a2ac27ca48b9271f99da84",
+    "revision": "025c713530ebf66bfe79ce0e84768737",
     "url": "/viet-vocabulary/index.html"
   },
   {
-    "revision": "d11acba633225fea1887",
-    "url": "/viet-vocabulary/static/css/main.6c15ea19.chunk.css"
+    "revision": "ab19bcd27041655bc1a8",
+    "url": "/viet-vocabulary/static/css/main.89262a4f.chunk.css"
   },
   {
     "revision": "d7bb63d1c2823af01013",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/viet-vocabulary/static/js/2.c98a9cd6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d11acba633225fea1887",
-    "url": "/viet-vocabulary/static/js/main.218a5031.chunk.js"
+    "revision": "ab19bcd27041655bc1a8",
+    "url": "/viet-vocabulary/static/js/main.f1023adf.chunk.js"
   },
   {
     "revision": "3ca83200a78429488ce5",

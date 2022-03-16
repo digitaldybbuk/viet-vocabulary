@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/viet-vocabulary/precache-manifest.6968ae92ffc92f108943d4cbd44d585b.js"
+  "/viet-vocabulary/precache-manifest.3e8f63c7f471a83c44c14142d975832b.js"
 );
 
 self.addEventListener('message', (event) => {

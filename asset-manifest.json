@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/viet-vocabulary/static/css/main.6c15ea19.chunk.css",
-    "main.js": "/viet-vocabulary/static/js/main.218a5031.chunk.js",
-    "main.js.map": "/viet-vocabulary/static/js/main.218a5031.chunk.js.map",
+    "main.css": "/viet-vocabulary/static/css/main.89262a4f.chunk.css",
+    "main.js": "/viet-vocabulary/static/js/main.f1023adf.chunk.js",
+    "main.js.map": "/viet-vocabulary/static/js/main.f1023adf.chunk.js.map",
     "runtime-main.js": "/viet-vocabulary/static/js/runtime-main.180d7d74.js",
     "runtime-main.js.map": "/viet-vocabulary/static/js/runtime-main.180d7d74.js.map",
     "static/js/2.c98a9cd6.chunk.js": "/viet-vocabulary/static/js/2.c98a9cd6.chunk.js",
     "static/js/2.c98a9cd6.chunk.js.map": "/viet-vocabulary/static/js/2.c98a9cd6.chunk.js.map",
     "index.html": "/viet-vocabulary/index.html",
-    "precache-manifest.6968ae92ffc92f108943d4cbd44d585b.js": "/viet-vocabulary/precache-manifest.6968ae92ffc92f108943d4cbd44d585b.js",
+    "precache-manifest.3e8f63c7f471a83c44c14142d975832b.js": "/viet-vocabulary/precache-manifest.3e8f63c7f471a83c44c14142d975832b.js",
     "service-worker.js": "/viet-vocabulary/service-worker.js",
-    "static/css/main.6c15ea19.chunk.css.map": "/viet-vocabulary/static/css/main.6c15ea19.chunk.css.map",
+    "static/css/main.89262a4f.chunk.css.map": "/viet-vocabulary/static/css/main.89262a4f.chunk.css.map",
     "static/js/2.c98a9cd6.chunk.js.LICENSE.txt": "/viet-vocabulary/static/js/2.c98a9cd6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.180d7d74.js",
     "static/js/2.c98a9cd6.chunk.js",
-    "static/css/main.6c15ea19.chunk.css",
-    "static/js/main.218a5031.chunk.js"
+    "static/css/main.89262a4f.chunk.css",
+    "static/js/main.f1023adf.chunk.js"
   ]
 }
